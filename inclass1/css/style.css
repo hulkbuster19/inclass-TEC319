@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+    margin: 20px;
+}
+
+h3{
+    color: darkgreen;
+    font-weight: bolder;
+}
+
+h1{
+    color: purple;
+}
+
+img{
+    padding:10px;
+}
+
+footer{
+    padding-bottom:20px;
+}
